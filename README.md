@@ -48,6 +48,7 @@ If you encounter any issues or errors, make sure to check the video URL and ensu
 This script only downloads the audio track in MP3 format. If you need other formats or options, you can explore the Pytube library's documentation for more functionality.
 
 ## Disclaimer
+
 Please be aware of copyright and intellectual property rights when using this script to download content from YouTube. Ensure that you have the necessary permissions to download and use the content.
 
-Enjoy using this YouTube to MP3 converter script!
+Enjoy using this YouTube to MP3 converter script! 
